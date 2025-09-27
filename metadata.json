@@ -1,0 +1,5 @@
+{
+  "name": "VEO Film Maker",
+  "description": "A web app that turns a full film script into a finished film using Veo. The app splits the script into scenes, generates video prompts for each, allows user approval and regeneration, and assembles the final film.",
+  "requestFramePermissions": []
+}
